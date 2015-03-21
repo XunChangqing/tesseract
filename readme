@@ -1,0 +1,2 @@
+export TESSDATA_PREFIX=/home/xcq/work/tesseract/
+./ocrreg ~/Pictures/2.png 2 -l chi_sim chineseconfig
